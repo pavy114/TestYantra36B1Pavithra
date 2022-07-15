@@ -8,7 +8,11 @@ public void createContactTest() {
 	System.out.println("createContactTest executed");
 	System.out.println("Create Contact Test module created by Pavithra ");
 	System.out.println("createOrganization Test module created by Pavithra Latest Model");
+//<<<<<<< HEAD
 	System.out.println("createOrganization Test module created by Pavithra Latest Model");
+//=======
+	System.out.println("createOrganization Test module created by Pavithra Latest Model2");
+//>>>>>>> branch 'master' of https://github.com/pavy114/TestYantra36B1Pavithra.git
 }
 @Test
 public void createOrganizationTest() {
