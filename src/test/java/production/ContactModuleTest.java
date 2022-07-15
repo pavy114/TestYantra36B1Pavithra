@@ -7,6 +7,7 @@ public class ContactModuleTest {
 public void createContactTest() {
 	System.out.println("createContactTest executed");
 	System.out.println("Create Contact Test module created by Pavithra ");
+	System.out.println("createOrganization Test module created by Pavithra Latest Model");
 }
 @Test
 public void createOrganizationTest() {
