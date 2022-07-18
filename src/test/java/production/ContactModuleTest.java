@@ -34,10 +34,10 @@ public void createContactTest() {
 public void createOrganizationTest() {
 	System.out.println("createOrganizationTest executed");
 	System.out.println("createOrganization Test module created by Pavithra");
+	System.out.println("createDeleteorganization test module created by shabnam");
 
 	System.out.println("createOrganization Test module created by Pavithra Latest Model");
 
 	System.out.println(" Happy birthday to me ");
 //>>>>>>> branch 'master' of https://github.com/pavy114/TestYantra36B1Pavithra.git
-}
-}
+}}}
